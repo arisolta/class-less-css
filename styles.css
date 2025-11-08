@@ -208,7 +208,6 @@ button:focus {
 }
 
 /* Utility Classes (Optional) */
-/* Since the requirement is to use only element selectors, these are optional and can be omitted if strict adherence is needed */
 .hidden {
   display: none !important;
 }
